@@ -1,6 +1,6 @@
 import { parse } from 'devalue';
 import { escape } from 'html-escaper';
-import { D as DEFAULT_404_COMPONENT } from './astro/server_DR-jaD5k.mjs';
+import { D as DEFAULT_404_COMPONENT } from './astro/server_Cscjiqaf.mjs';
 
 const NOOP_MIDDLEWARE_FN = (_, next) => next();
 
