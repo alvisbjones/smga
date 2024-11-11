@@ -1,13 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
-import {Content as Whoweare} from '../components/whoweare.md'
 ---
 
-
-
-
-<Layout title="Welcome the Hills SMGA">
+<Layout title="SMGA Race for the Cup">
 	<main>
 		<svg
 			class="astro-a"
@@ -37,39 +33,13 @@ import {Content as Whoweare} from '../components/whoweare.md'
 				</linearGradient>
 			</defs>
 		</svg>
-		<h1>Welcome to <span class="text-gradient">the Hills SMGA</span></h1>
-		<div class="instructions">
-			<Whoweare />
-		</div>
-	
+		<h1><span class="text-gradient">SMGA Race for the Cup</span></h1>
+        <div>
+			<h2> 2025 Standings</h2>
+			
+		
 
-		<ul role="list" class="link-card-grid">
-			<Card
-				href="playday"
-				title="When we play"
-				body="Playdays, Signup, Routine"
-			/>
-			<Card
-				href="schedule"
-				title="Tournament Schedule"
-				body="2025 Calendar of events"
-			/>
-			<Card
-				href="weekly"
-				title="Weekly results"
-				body="2025 weekly log of results"
-			/>
-			<Card
-				href="communication"
-				title="Communication"
-				body="Instructions for association communication"
-			/>
-			<Card
-				href="raceforcup"
-				title="Race for the cup"
-				body="Involvement stats"
-			/>
-		</ul>
+		</div>
 	</main>
 </Layout>
 
