@@ -1,0 +1,51 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "^/_astro/(.*)$",
+			"headers": {
+				"cache-control": "public, max-age=31536000, immutable"
+			},
+			"continue": true
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "^\\/_image$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/communication\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/play\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/playday\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/raceforcup\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/schedule\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/SMGA\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/weekly\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/$",
+			"dest": "_render"
+		}
+	]
+}
