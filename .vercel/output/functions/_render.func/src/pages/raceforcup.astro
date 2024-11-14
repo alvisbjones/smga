@@ -1,7 +1,14 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+const response = await fetch('https://docs.google.com/spreadsheets/d/e/2PACX-1vSm_rmY0y4buor6N7w9L3tpnHCtvbEb395G6G80w5hDqnoCe9Osb9Iv1iIN9qDJMXhm7D8dO4AhYcFY/pubhtml?gid=0&single=true');
+const html = await response.text();
+//console.log(html);
 ---
+
+
+
+
 
 <Layout title="SMGA Race for the Cup">
 	<main>
@@ -36,9 +43,12 @@ import Card from '../components/Card.astro';
 		<h1><span class="text-gradient">SMGA Race for the Cup</span></h1>
         <div>
 			<h2> 2025 Standings</h2>
-			
-		
+			<br><br>
+			<div style="width:100%; height:700px">
+				<iframe height="100%" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSm_rmY0y4buor6N7w9L3tpnHCtvbEb395G6G80w5hDqnoCe9Osb9Iv1iIN9qDJMXhm7D8dO4AhYcFY/pubhtml"></iframe>
 
+			</div>
+		
 		</div>
 	</main>
 </Layout>

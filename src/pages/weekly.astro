@@ -1,7 +1,26 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+
+import { contentfulClient } from "../lib/contentful";
+import { documentToHtmlString } from "@contentful/rich-text-html-renderer";
+import type { EntryFieldTypes } from "contentful";
+
+interface BlogPost {
+  contentTypeId: "blogPost",
+  fields: {
+    title: EntryFieldTypes.Text
+    writeup: EntryFieldTypes.RichText,
+  }
+}
+
+const entries = await contentfulClient.getEntries<BlogPost>({
+  content_type: "blogPost",
+});
+
+
 ---
+
 
 <Layout title="SMGA Weekly Results">
 	<main>
@@ -34,11 +53,15 @@ import Card from '../components/Card.astro';
 			</defs>
 		</svg>
 		<h1><span class="text-gradient">SMGA Weekly Results</span></h1>
-        <div>
-			<h2> Weeklies</h2>
+		<body>
+			{entries.items.map((item) => (
+			  <section>
+				<h2>{item.fields.title}</h2>
+				<article set:html={documentToHtmlString(item.fields.writeup)}></article>
+			  </section>
+			))}
+		  </body>
 
-	
-		</div>
 	</main>
 </Layout>
 
