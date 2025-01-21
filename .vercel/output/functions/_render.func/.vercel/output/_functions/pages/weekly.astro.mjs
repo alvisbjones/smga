@@ -1,6 +1,6 @@
 import { c as createComponent, r as renderTemplate, f as renderComponent, m as maybeRenderHead, u as unescapeHTML } from '../chunks/astro/server_Cscjiqaf.mjs';
 import 'kleur/colors';
-import { $ as $$Layout } from '../chunks/Layout_C5jBmE7T.mjs';
+import { $ as $$Layout } from '../chunks/Layout_D_YUpMXp.mjs';
 import * as contentful from 'contentful';
 import { documentToHtmlString } from '@contentful/rich-text-html-renderer';
 /* empty css                                  */

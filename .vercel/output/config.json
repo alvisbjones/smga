@@ -20,11 +20,19 @@
 			"dest": "_render"
 		},
 		{
+			"src": "^\\/join\\/?$",
+			"dest": "_render"
+		},
+		{
 			"src": "^\\/playday\\/?$",
 			"dest": "_render"
 		},
 		{
 			"src": "^\\/raceforcup\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/rules\\/?$",
 			"dest": "_render"
 		},
 		{
