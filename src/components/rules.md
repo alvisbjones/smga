@@ -30,7 +30,7 @@ For example - Movable objects & loose impediments.  see attached video:
 
 
 ## Points of emphasis for our group and local rules
-The USGA rules of golf consist of 25 rule sections each covering an aspect of the game.  For a cliff notes version of the key concepts see: [link to snapshot].  For our group we want to place emphasis on the following:
+The USGA rules of golf consist of 25 rule sections each covering an aspect of the game. For our group we want to place emphasis on the following rules where people may have some confusion.
 
 ### Rule 1 & Rule 9 - Play the ball as it lies
 Often referred to as **"playing the ball down"** - this is our default unless notified otherwise.
@@ -124,7 +124,7 @@ Taking relief (Ground under repair - white markings, temporary water, unmovable 
 If you find your ball in a area marked with white paint (ground under repair), or temporary water the following video gives a quick overview of your options:
 <a href="https://www.youtube.com/watch?v=vS3es7UOI8M&list=PLnU5qUEfww3f5x5gRldQB9yWr5YdBwWwV&index=7" class="button">Abnormal conditions</a>
 
-### Rule 17 - Penalty areas
+### Rule 17 - Penalty areas (Red vs Yellow stakes)
 Penalty areas are defined as either red or yellow and this affects your options.
 The following video shows your options for both types of penalty areas:
 <a href="https://www.youtube.com/watch?v=gfjY8G79MEI&list=PLnU5qUEfww3f5x5gRldQB9yWr5YdBwWwV&index=8" class="button">Penalty areas</a>
@@ -132,25 +132,32 @@ The following video shows your options for both types of penalty areas:
 
 
 ### Rule 18 - Stroke and distance (Out of bounds, Lost ball, Local rule)
-Lost ball or out of bounds (stroke and distance relief):
+We allow the option of using Stroke and distance relief or the optional Local rule for a lost ball or ball out of bounds.  If you suspect your ball is lost or out of bounds after hitting a shot, considering hitting a provisional ball in these cases.  In either case, a 3 minute search time is in effect.
 
-Player should take stroke and distance relief by adding one penalty stroke and playing from where the previoius stroke was made.
+**Stroke and distance relief**
 
-Local rule (alternative to stroke and distance relief):
+Player should take stroke and distance relief by adding one penalty stroke and playing from where the previoius stroke was made.  This is a situation where playing a provisional ball will prevent you having to backtrack to play another shot.
+<a href="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/1918791248001/1d15a3b4-0937-4ea7-9ef0-51fdfac5d33b/10s/master.m3u8?fastly_token=NjdiODBiZTJfM2Y0ZjkyZmNlN2Q1ZWE4Njc5NGFiNWZiMTU5MTVmNThhZjljMmNkMGUwMDhkMzczOGU2ZTU5YzZiM2I4ZDg1Nw%3D%3D" class="button">Stroke and distance relief</a>
 
-A new Local Rule, allows golfers the option to drop the ball in the vicinity of where the ball is lost or out of bounds (including the nearest fairway area), under a two-stroke penalty.
-It is encouraged, for pace of play, that tee shots with a high probability of being out of bounds or lost – that the next shot be played from the point in the fairway where the ball crossed the into the out of bounds area or was lost. Resulting in a two- stroke penalty – and hitting shot number 4 from the fairway.
-You may hit another shot from the Tee Box under a one stroke penalty -hitting shot number 3. If you decide to hit a provisional ball and search for your original ball – you must declare a “Provisional Ball”.
-Search Time -You have 3 minutes to find your ball before it is lost
+**Local rule relief**
+
+Player has the option to use the **Local Rule** as an alternative to stroke and distance relief.  If this option is taken, drop the ball in the vicinity of where the ball is lost or out of bounds (including the nearest fairway area) not closer to the hole, under a two-stroke penalty.
+
+**Example**
+
+Option 1 - Player suspects lost or out of bounds off of the tee.  Hit a provisional from tee and search for ball.  If lost or out of bounds, the provisional becomes your ball in play and you are lying 3 about to hit your 4th shot.
+
+Option 2 - Player suspects lost or out of bounds off of the tee and opts for the local rule.  Go to the nearest point on the fairway to the lost or out of bounds ball and take a two stroke penalty.  You will be hitting your 4th shot.
+
 
 See this brief video for an explanation:
-<a href="https://www.youtube.com/watch?v=vrQg8lTihxo" class="button">Local rule OB / Lost ball</a>
+<a href="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/1918791248001/ca1b4613-d085-4e22-a449-b37697b9a88a/10s/master.m3u8?fastly_token=NjdiODBiNDhfNTU1MDM4ZDg3MTYzOTk3MzA1NjM5YjVjZDE5NDBmY2VhY2EyMzY5YTExM2QzYTlkMjQ2Zjc1OTYzMzlkZTg2OA%3D%3D" class="button">Local rule OB / Lost ball</a>
 
 
 
 ### Rule 19 - Unplayable ball
 
-UNPLAYABLE LIE: – a one stroke penalty
+UNPLAYABLE LIE: a one stroke penalty
 
 If a ball comes to rest; against a tree, in a bush, against a Homeowners Fence, etc. and cannot be played. 
 You cannot move, bend or break any growing or attached natural object, 
@@ -162,6 +169,8 @@ The player may take unplayable ball relief using one of the three options in eac
 See the following brief video for clarification:
 <a href="https://www.youtube.com/watch?v=2KYoSvWx3MI&list=PLnU5qUEfww3f5x5gRldQB9yWr5YdBwWwV&index=9" class="button">Unplayable ball</a>
 
+
+### Have fun! 
 
 
 

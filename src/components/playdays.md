@@ -13,6 +13,7 @@ See [Tournament Schedule](/schedule)
 
 ## Basic format of playdays
 In the spirit of friendly competition, we collect a players pool each playday ($5) and a closest to the pin pool ($1) that is payed out each playday to the winners (team/teams or individual/individuals) depending on the format for that playday.  
+<a href="games" class="button">Games we play</a>
 
 ## Signing up for playday and playday routine
 The signup process differs slightly between Monday and Friday.  
@@ -22,6 +23,7 @@ On Monday’s a member of the SMGA “manager of the day” will arrange the tea
 * Individual events (low net, quota)
 * Team events (2,3 & 4 man formats depending on number signed up with “balanced handicap” teams)
 * Occasionally just play no competitiion (green aeration, odd circumstances)
+* <a href="games" class="button">Games we play</a>
 
 Each golfer is responsible for entering their score into the GHIN system.
 
@@ -33,6 +35,7 @@ This could include:
 * 4 man Team formats (2 best net, Cha,Cha,Cha , Lone Ranger) 
 * 3 man Team formats (Scramble, low net, etc.
 * 2 man team formats
+* <a href="games" class="button">Games we play</a>
 
 You will get a email several days in advance of the Friday event inviting you to participate.  Please make sure your email is included in the SMGA golf genius list (see pro shop to verify).  You must click the link in the email by 7pm on Thursday indicating your participation in the event, and you will receive a email notification confirming your intention to play.  Make sure you email filters (spam, whitelist, etc.) are set such that you recieve the email.  Using golf genius, teams are balanced based on handicaps and scores are entered into the app during play with real time scoring, leaderboard, and final results available within the app.  Golf genius will also automatically post individual scores to the GHIN handicap system.  
 
