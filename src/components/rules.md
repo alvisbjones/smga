@@ -74,7 +74,7 @@ We play under the "Handicap competition rules".
 
 HANDICAPS:
 
-All HSMGA Members are governed by the rules and expectations of The Clubs of Prestonwood Handicap Committee to responsibly and accurately maintain their Handicap.
+All SMGA Members are governed by the rules and expectations of The Clubs of Prestonwood Handicap Committee to responsibly and accurately maintain their Handicap.
 On Monday Play Day (non- Golf Genius days) – players are responsible for recording their scores into the GHIN system.
 Friday and Tournaments that are scored in Golf Genius are automatically uploaded into GHIN.
 Non HSMGA play should also be recorded into GHIN as governed by the Prestonwood Handicap Committee.
