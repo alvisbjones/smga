@@ -170,8 +170,6 @@ See the following brief video for clarification:
 <a href="https://www.youtube.com/watch?v=2KYoSvWx3MI&list=PLnU5qUEfww3f5x5gRldQB9yWr5YdBwWwV&index=9" class="button">Unplayable ball</a>
 
 
-### Have fun! 
-
 
 
 
